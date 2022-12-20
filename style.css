@@ -1,4 +1,18 @@
 
-.colorRed {
-color: red;
-}
+.flex-container {
+    display: flex;
+    background-color: white;
+    flex-wrap:wrap ;
+  }
+  
+  .flex-container > div {
+    background-color: DodgerBlue;
+    color: white;
+    width: 300px;
+    margin: 10px;
+    text-align:left;
+    height: 150px;
+    font-size: 20px;
+
+    
+  }
