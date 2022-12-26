@@ -1,3 +1,29 @@
 
+
+.glavniKontejner {
+    display: flex;
+    background-color: white;
+    flex-wrap:wrap ;
+    width: 1328px;
+    margin: auto;
+  }
+
+
+  .jedanKontejner {
+      background-image: url("./Slike/kompSlika.png");
+  background-repeat: no-repeat, repeat;
+    color: white;
+    width: 300px;
+    margin: 10px;
+    text-align:left;
+    height: 150px;
+    font-size: 20px;
+  }
+
+
+
+  .trebasDaCentrirasOvajNaslov {
+    background-color: aqua;
+  }
   
   
