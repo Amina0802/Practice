@@ -8,13 +8,13 @@ h1{
     display: flex;
     background-color: white;
     flex-wrap:wrap ;
-    width: 1328px;
+    width: 1289px;
     margin: auto;
     border: 3px solid pink;
   }
 
 
-  .jedanKontejner {
+  .prviKontejner {
       background-image: url("./Slike/kompSlika.png");
   background-repeat: no-repeat, repeat;
     color: white;
@@ -24,8 +24,11 @@ h1{
     height: 150px;
     font-size: 20px;
     border:1px solid black;
+    background-size: cover;
   }
+  
 
+ 
 
 
   .Naslov {
@@ -33,4 +36,84 @@ h1{
     border: solid black;
   }
   
+
   
+  .drugiKontejner {
+    background-image: url("./Slike/pic3.jpg");
+background-repeat: no-repeat, repeat;
+  color: white;
+  width: 300px;
+  margin: 10px;
+  text-align:left;
+  height: 150px;
+  font-size: 20px;
+  border:1px solid black;
+}
+  
+
+
+.treciKontejner {
+  background-image: url("./Slike/pic1.jpg");
+background-repeat: no-repeat, repeat;
+color: white;
+width: 300px;
+margin: 10px;
+text-align:left;
+height: 150px;
+font-size: 20px;
+border:1px solid black;
+background-size: cover
+}
+
+
+.cetvrtiKontejner {
+  background-image: url("./Slike/pic4.jpg");
+background-repeat: no-repeat, repeat;
+color: white;
+width: 300px;
+margin: 10px;
+text-align:left;
+height: 150px;
+font-size: 20px;
+border:1px solid black;
+}
+
+
+.petiKontejner {
+  background-image: url("./Slike/pic5.jpg");
+background-repeat: no-repeat, repeat;
+color: white;
+width: 300px;
+margin: 10px;
+text-align:left;
+height: 150px;
+font-size: 20px;
+border:1px solid black;
+}
+
+
+.sestiKontejner {
+  background-image: url("./Slike/pic6.jpg");
+background-repeat: no-repeat, repeat;
+color: white;
+width: 300px;
+margin: 10px;
+text-align:left;
+height: 150px;
+font-size: 20px;
+border:1px solid black;
+}
+
+
+
+.sedmiKontejner {
+  background-image: url("./Slike/pic5.jpg");
+background-repeat: no-repeat, repeat;
+color: white;
+width: 300px;
+margin: 10px;
+text-align:left;
+height: 150px;
+font-size: 20px;
+border:1px solid black;
+}
