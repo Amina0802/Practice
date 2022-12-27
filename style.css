@@ -4,7 +4,7 @@ h1{
     text-align: center;
     
     }
-.glavniKontejner {
+.mainContainer {
     display: flex;
     background-color: white;
     flex-wrap:wrap ;
@@ -14,8 +14,8 @@ h1{
   }
 
 
-  .prviKontejner {
-      background-image: url("./Slike/kompSlika.png");
+  .Container1 {
+      background-image: url("./Slike/pic1.jpg");
   background-repeat: no-repeat, repeat;
     color: white;
     width: 300px;
@@ -31,15 +31,15 @@ h1{
  
 
 
-  .Naslov {
+  .Title {
     background-color: aqua;
     border: solid black;
   }
   
 
   
-  .drugiKontejner {
-    background-image: url("./Slike/pic3.jpg");
+  .Container2 {
+    background-image: url("./Slike/pic2.jpg");
 background-repeat: no-repeat, repeat;
   color: white;
   width: 300px;
@@ -48,12 +48,13 @@ background-repeat: no-repeat, repeat;
   height: 150px;
   font-size: 20px;
   border:1px solid black;
+  background-size: cover
 }
   
 
 
-.treciKontejner {
-  background-image: url("./Slike/pic1.jpg");
+.Container3 {
+  background-image: url("./Slike/pic3.jpg");
 background-repeat: no-repeat, repeat;
 color: white;
 width: 300px;
@@ -66,7 +67,7 @@ background-size: cover
 }
 
 
-.cetvrtiKontejner {
+.Container4 {
   background-image: url("./Slike/pic4.jpg");
 background-repeat: no-repeat, repeat;
 color: white;
@@ -76,10 +77,11 @@ text-align:left;
 height: 150px;
 font-size: 20px;
 border:1px solid black;
+background-size: cover
 }
 
 
-.petiKontejner {
+.Container5 {
   background-image: url("./Slike/pic5.jpg");
 background-repeat: no-repeat, repeat;
 color: white;
@@ -89,10 +91,11 @@ text-align:left;
 height: 150px;
 font-size: 20px;
 border:1px solid black;
+background-size: cover
 }
 
 
-.sestiKontejner {
+.Container6 {
   background-image: url("./Slike/pic6.jpg");
 background-repeat: no-repeat, repeat;
 color: white;
@@ -102,18 +105,8 @@ text-align:left;
 height: 150px;
 font-size: 20px;
 border:1px solid black;
+background-size: cover
 }
 
 
 
-.sedmiKontejner {
-  background-image: url("./Slike/pic5.jpg");
-background-repeat: no-repeat, repeat;
-color: white;
-width: 300px;
-margin: 10px;
-text-align:left;
-height: 150px;
-font-size: 20px;
-border:1px solid black;
-}
