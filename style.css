@@ -110,3 +110,15 @@ background-size: cover
 
 
 
+.hocuDaSamRoza {
+  height: 50px;
+  width: 200px;
+  background-color: #04AA6D;
+  color: white;
+  display: block;
+  margin:auto;
+  border: none;
+  
+  
+  
+}
