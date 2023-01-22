@@ -1,25 +1,15 @@
 /** @format */
 
-function mojaFunkcija() {
-    document.getElementById("x").innerHTML = "10";
+function postaviSliku2naCrvenuBoju() {
+  document.getElementById("slidza2").style.backgroundImage = "none";
 }
 
-
-function ukiniSliku() {
-    document.getElementById("slidza").style.background = "black";
+function slikuIzKontejnera12zamjeniSaBijelom() {
+  document.getElementById("slidza12").style.backgroundImage = "none";
 }
 
+function prikaziBroj9LijevoIDesno() {
+  document.getElementById("broj9NalijevojStrani").style.opacity = 1;
 
-function ukiniSliku1() {
-    document.getElementById("slidza2").style.background = "red";
-}
-
-
-function ukiniSliku2() {
-    document.getElementById("slidza12").style.background = "white";
-}
-
-
-function prikaziBroj() {
-    document.getElementById("x").style.number;
+  document.getElementById("broj9naDesnojStrani").style.opacity = 1;
 }
