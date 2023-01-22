@@ -10,13 +10,16 @@ function ukiniSliku() {
 }
 
 
-function ukiniSliku() {
+function ukiniSliku1() {
     document.getElementById("slidza2").style.background = "red";
 }
 
 
-function ukiniSliku() {
+function ukiniSliku2() {
     document.getElementById("slidza12").style.background = "white";
 }
 
 
+function prikaziBroj() {
+    document.getElementById("x").style.number;
+}
